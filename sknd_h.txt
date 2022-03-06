@@ -1,0 +1,24 @@
+# 3- Line breaks
+This is a 40 days long course Data Science with Python AKA Python_ka_chilla_with_baba_ammar.\
+This is a second line.
+
+# 4- Combine two things
+Block of words and  things
+
+> ## Heading 2
+
+# 5- Face of text
+
+**Bold**
+
+*Italic*
+
+***Bold and Italic***
+
+Or you can use these symbols
+
+__Bold__
+
+_Italic_
+
+___Bold and Italic___
